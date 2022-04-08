@@ -6,7 +6,7 @@
 
 JS 向けに作成した同ライブラリ[`wakachigaki`](https://github.com/yuhsak/wakachigaki)の Python ポーティングです。
 
-詳しくは[こちら](https://github.com/yuhsak/wakachigaki))をご参照下さい。
+詳しくは[こちら](https://github.com/yuhsak/wakachigaki)をご参照下さい。
 
 [https://github.com/yuhsak/wakachigaki)](https://github.com/yuhsak/wakachigaki))
 
