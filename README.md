@@ -8,7 +8,7 @@ JS 向けに作成した同ライブラリ[`wakachigaki`](https://github.com/yuh
 
 詳しくは[こちら](https://github.com/yuhsak/wakachigaki)をご参照下さい。
 
-[https://github.com/yuhsak/wakachigaki)](https://github.com/yuhsak/wakachigaki)
+[https://github.com/yuhsak/wakachigaki](https://github.com/yuhsak/wakachigaki)
 
 ## 使い方
 
