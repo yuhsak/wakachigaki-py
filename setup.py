@@ -1,11 +1,13 @@
 from pathlib import Path
 
-from setuptools import setup
+from setuptools import find_packages, setup
 
 setup(
     name="wakachigaki",
-    version="1.3.2",
-    packages=["wakachigaki"],
+    version="1.3.3",
+    packages=find_packages('src'),
+    package_dir={"": "src"},
+    include_package_data=True,
     author="Yuhsak Inoue",
     author_email="yuhsak.inoue@gmail.com",
     maintainer="Yuhsak Inoue",
